@@ -1,0 +1,15 @@
+C:\Users\REICHEYECARE\RiderProjects\HW3ExtraCredit\HW3ExtraCredit\bin\Debug\net7.0\HW3ExtraCredit.exe
+C:\Users\REICHEYECARE\RiderProjects\HW3ExtraCredit\HW3ExtraCredit\bin\Debug\net7.0\HW3ExtraCredit.deps.json
+C:\Users\REICHEYECARE\RiderProjects\HW3ExtraCredit\HW3ExtraCredit\bin\Debug\net7.0\HW3ExtraCredit.runtimeconfig.json
+C:\Users\REICHEYECARE\RiderProjects\HW3ExtraCredit\HW3ExtraCredit\bin\Debug\net7.0\HW3ExtraCredit.dll
+C:\Users\REICHEYECARE\RiderProjects\HW3ExtraCredit\HW3ExtraCredit\bin\Debug\net7.0\HW3ExtraCredit.pdb
+C:\Users\REICHEYECARE\RiderProjects\HW3ExtraCredit\HW3ExtraCredit\obj\Debug\net7.0\HW3ExtraCredit.csproj.AssemblyReference.cache
+C:\Users\REICHEYECARE\RiderProjects\HW3ExtraCredit\HW3ExtraCredit\obj\Debug\net7.0\HW3ExtraCredit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REICHEYECARE\RiderProjects\HW3ExtraCredit\HW3ExtraCredit\obj\Debug\net7.0\HW3ExtraCredit.AssemblyInfoInputs.cache
+C:\Users\REICHEYECARE\RiderProjects\HW3ExtraCredit\HW3ExtraCredit\obj\Debug\net7.0\HW3ExtraCredit.AssemblyInfo.cs
+C:\Users\REICHEYECARE\RiderProjects\HW3ExtraCredit\HW3ExtraCredit\obj\Debug\net7.0\HW3ExtraCredit.csproj.CoreCompileInputs.cache
+C:\Users\REICHEYECARE\RiderProjects\HW3ExtraCredit\HW3ExtraCredit\obj\Debug\net7.0\HW3ExtraCredit.dll
+C:\Users\REICHEYECARE\RiderProjects\HW3ExtraCredit\HW3ExtraCredit\obj\Debug\net7.0\refint\HW3ExtraCredit.dll
+C:\Users\REICHEYECARE\RiderProjects\HW3ExtraCredit\HW3ExtraCredit\obj\Debug\net7.0\HW3ExtraCredit.pdb
+C:\Users\REICHEYECARE\RiderProjects\HW3ExtraCredit\HW3ExtraCredit\obj\Debug\net7.0\HW3ExtraCredit.genruntimeconfig.cache
+C:\Users\REICHEYECARE\RiderProjects\HW3ExtraCredit\HW3ExtraCredit\obj\Debug\net7.0\ref\HW3ExtraCredit.dll
