@@ -1,9 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+// See https://aka.ms/new-console-template for more information
 
 Console.WriteLine("N \tN^2 \tN^3 \tN^2 + N^3");
-var endCondition = "";
+
 int n = 10;
-while (!endCondition.ToLower().Equals("x"))
+while (true)
 {
 
     for (int x = 0; x < 5; x++)
@@ -14,6 +15,6 @@ while (!endCondition.ToLower().Equals("x"))
         n += 10;
     }
 
-    Console.WriteLine("Press any key to continue, or x to end. ");
-    endCondition = Console.ReadLine();
+    Console.WriteLine("Press any key to continue");
+    Console.ReadLine();
 }
